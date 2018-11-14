@@ -51,7 +51,6 @@
             this.headerText.Size = new System.Drawing.Size(397, 37);
             this.headerText.TabIndex = 0;
             this.headerText.Text = "Consignment shop demo";
-            this.headerText.Click += new System.EventHandler(this.headerText_Click);
             // 
             // itemsListbox
             // 
@@ -154,7 +153,6 @@
             this.storeProfitValue.Size = new System.Drawing.Size(70, 24);
             this.storeProfitValue.TabIndex = 10;
             this.storeProfitValue.Text = "$ 0.00";
-            this.storeProfitValue.Click += new System.EventHandler(this.storeProfitValue_Click);
             // 
             // ConsignmentShop
             // 

@@ -119,15 +119,5 @@ namespace WindowsFormsApp2
             storeProfitValue.Text = string.Format("$ {0}", storeProfit);
 
         }
-
-        private void headerText_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void storeProfitValue_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
